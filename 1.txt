@@ -1,0 +1,47 @@
+#!/bin/bash
+
+
+source ./github/git_add_commit.sh
+
+git_add_commit photoshop.2018062419.tar.gz.aa
+git_add_commit photoshop.2018062419.tar.gz.ab
+git_add_commit photoshop.2018062419.tar.gz.ac
+git_add_commit photoshop.2018062419.tar.gz.ad
+git_add_commit photoshop.2018062419.tar.gz.ae
+git_add_commit photoshop.2018062419.tar.gz.af
+git_add_commit photoshop.2018062419.tar.gz.ag
+git_add_commit photoshop.2018062419.tar.gz.ah
+git_add_commit photoshop.2018062419.tar.gz.ai
+git_add_commit photoshop.2018062419.tar.gz.aj
+git_add_commit photoshop.2018062419.tar.gz.ak
+git_add_commit photoshop.2018062419.tar.gz.al
+git_add_commit photoshop.2018062419.tar.gz.am
+git_add_commit photoshop.2018062419.tar.gz.an
+git_add_commit photoshop.2018062419.tar.gz.ao
+git_add_commit photoshop.2018062419.tar.gz.ap
+git_add_commit photoshop.2018062419.tar.gz.aq
+git_add_commit photoshop.2018062419.tar.gz.ar
+git_add_commit photoshop.2018062419.tar.gz.as
+git_add_commit photoshop.2018062419.tar.gz.at
+git_add_commit photoshop.2018062419.tar.gz.au
+git_add_commit photoshop.2018062419.tar.gz.av
+git_add_commit photoshop.2018062419.tar.gz.aw
+git_add_commit photoshop.2018062419.tar.gz.ax
+git_add_commit photoshop.2018062419.tar.gz.ay
+git_add_commit photoshop.2018062419.tar.gz.az
+git_add_commit photoshop.2018062419.tar.gz.ba
+git_add_commit photoshop.2018062419.tar.gz.bb
+git_add_commit photoshop.2018062419.tar.gz.bc
+git_add_commit photoshop.2018062419.tar.gz.bd
+git_add_commit photoshop.2018062419.tar.gz.be
+git_add_commit photoshop.2018062419.tar.gz.bf
+git_add_commit photoshop.2018062419.tar.gz.bg
+git_add_commit photoshop.2018062419.tar.gz.bh
+git_add_commit photoshop.2018062419.tar.gz.bi
+git_add_commit photoshop.2018062419.tar.gz.bj
+git_add_commit photoshop.2018062419.tar.gz.bk
+git_add_commit photoshop.2018062419.tar.gz.bl
+git_add_commit photoshop.2018062419.tar.gz.bm
+git_add_commit photoshop.2018062419.tar.gz.bn
+git_add_commit photoshop.2018062419.tar.gz.bo
+git_add_commit photoshop.2018062419.tar.gz.bp
